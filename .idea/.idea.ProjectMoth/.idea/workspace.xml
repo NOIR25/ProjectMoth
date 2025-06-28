@@ -7,6 +7,9 @@
     <projectFile>Intermediate/ProjectFiles/ProjectMoth.vcxproj</projectFile>
     <projectFile>Intermediate/ProjectFiles/UE5.vcxproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d324d97e-da34-4772-b70f-404811eee230" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751108643568</updated>
       <workItem from="1751108647425" duration="57000" />
-      <workItem from="1751109233366" duration="338000" />
+      <workItem from="1751109233366" duration="583000" />
     </task>
     <servers />
   </component>
