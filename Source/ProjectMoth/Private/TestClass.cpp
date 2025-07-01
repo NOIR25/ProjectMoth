@@ -3,8 +3,6 @@
 
 #include "TestClass.h"
 
-#include "MovieSceneTracksComponentTypes.h"
-
 // Sets default values
 ATestClass::ATestClass()
 {

@@ -5,7 +5,6 @@
 
 #include "Components/BoxComponent.h"
 #include "Components/SphereComponent.h"
-#include "Preferences/PersonaOptions.h"
 
 // Sets default values
 AAPickupMaster::AAPickupMaster()
